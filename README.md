@@ -6,3 +6,5 @@ This is the simplest possible Java webapp for testing servlet container deployme
 added in readme file
 
 checking github webhooks
+
+for webhooks
